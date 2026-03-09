@@ -57,13 +57,15 @@ pip install -r requirements.txt
 
 ### ▶ Start Server
 ```
-```bash
+
 python server.py
 
 ```
 ### ▶ Start Client
 
 ```bash
+
+
 python client.py
 
 
