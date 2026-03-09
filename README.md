@@ -50,10 +50,13 @@ cd remote-system-monitoring
 pip install -r requirements.txt
 
 ```
+> ⚠️ **Note:** This project is primarily designed and tested for Windows environments, as it uses Windows-specific APIs (`ctypes.windll`). Compatibility with Linux or macOS is not guaranteed.
+
+
 ## ▶ Running the Project
 
 ### ▶ Start Server
-
+```
 ```bash
 python server.py
 
